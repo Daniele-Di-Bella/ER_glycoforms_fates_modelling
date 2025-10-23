@@ -1,4 +1,4 @@
-# ER_Glycoforms_Fates_Modelling: Modeling the Fate of Glycoproteins in the Endoplasmic Reticulum
+# ER_Glycoforms_Fates_Modelling: Modelling the Fate of Glycoproteins in the Endoplasmic Reticulum
 
 This repository contains a Python implementation that operationalizes the conceptual model described in our paper, enabling researchers to simulate, visualize, and test hypotheses about glycoprotein dynamics in the endoplasmatic reticulum (ER).
 
@@ -190,13 +190,13 @@ If you use or adapt this framework in your research, please cite our paper:
 
 **Formatted citation:**
 ```
-Andrea Lia, Daniele Di Bella and Pietro Roversi (2025). A Conceptual Framework to Model the Fate of Glycoproteins in the Endoplasmic Reticulum. [Journal Name], [Volume(Issue)], [pages]. DOI: [insert DOI]
+Andrea Lia, Daniele Di Bella and Pietro Roversi (2025). Mathematical modelling of glycoprotein fate in the ER. [Journal Name], [Volume(Issue)], [pages]. DOI: [insert DOI]
 ```
 
 **BibTeX:**
 ```bibtex
 @article{Lia2024glycoprotein,
-  title={A Conceptual Framework to Model the Fate of Glycoproteins in the Endoplasmic Reticulum},
+  title={Mathematical modelling of glycoprotein fate in the ER},
   author={Lia, Andrea and Di Bella, Daniele and Roversi, Pietro},
   journal={[Journal Name]},
   volume={[Volume]},
