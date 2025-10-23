@@ -219,8 +219,6 @@ The only requirement is attribution (see LICENSE file for details).
 
 We believe open science accelerates discovery—feel free to build upon this work!
 
----
-
 ## Questions, Issues, or Contributions?
 
 We welcome feedback and collaboration! If you:
