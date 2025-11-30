@@ -1,4 +1,4 @@
-# ER_Glycoforms_Fates_Modelling: Modelling the Fate of Glycoproteins in the Endoplasmic Reticulum
+# ERGO: Modelling the Fate of Mutant Glycoproteins in the Endoplasmic Reticulum
 
 This repository contains a Python implementation that operationalizes the conceptual model described in our paper, enabling researchers to simulate, visualize, and test hypotheses about glycoprotein dynamics in the endoplasmatic reticulum (ER).
 
